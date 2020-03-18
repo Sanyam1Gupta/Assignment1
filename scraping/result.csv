@@ -1,0 +1,320 @@
+name,Big Pitcher
+restaurant_id,1
+restaurant_type,Microbrewery
+area,Sarjapur Road
+name,BLR Brewing Co.
+restaurant_id,2
+restaurant_type,Microbrewery
+area,Electronic City
+name,Xochi Bar And Kitchen
+restaurant_id,3
+restaurant_type,Bar
+area,Bellandur
+name,Grasshopper
+restaurant_id,4
+restaurant_type,Fine Dining
+area,Bannerghatta Road
+name,Dr. Sheesha 24 Hours Gastro Pub
+restaurant_id,5
+restaurant_type,Pub
+area,"The Sahar Pavilion, Electronic City"
+name,Byg Brewski Brewing Company
+restaurant_id,6
+restaurant_type,Microbrewery
+area,Sarjapur Road
+name,URU Brewpark
+restaurant_id,7
+restaurant_type,Microbrewery
+area,JP Nagar
+name,Hoot
+restaurant_id,8
+restaurant_type,Microbrewery
+area,Sarjapur Road
+name,Brahma Brews
+restaurant_id,9
+restaurant_type,Microbrewery
+area,JP Nagar
+name,The Fisherman's Wharf
+restaurant_id,10
+restaurant_type,Casual Dining
+area,Sarjapur Road
+name,Shivaji Military Hotel
+restaurant_id,11
+restaurant_type,Quick Bites
+area,Jayanagar
+name,AB's - Absolute Barbecues
+restaurant_id,12
+restaurant_type,Casual Dining
+area,BTM
+name,Meghana Foods
+restaurant_id,13
+restaurant_type,Casual Dining
+area,Jayanagar
+name,The Globe Grub
+restaurant_id,14
+restaurant_type,Casual Dining
+area,BTM
+name,The Pump House
+restaurant_id,15
+restaurant_type,Microbrewery
+area,JP Nagar
+name,Stories - The Brew Chapter
+restaurant_id,16
+restaurant_type,Microbrewery
+area,BTM
+name,Sarjapur Social
+restaurant_id,17
+restaurant_type,Bar
+area,Sarjapur Road
+name,Deja Vu Buffet Bar
+restaurant_id,18
+restaurant_type,Casual Dining
+area,JP Nagar
+name,eat.fit
+restaurant_id,19
+restaurant_type,
+area,HSR
+name,TBC Sky Lounge
+restaurant_id,20
+restaurant_type,Bar
+area,HSR
+name,Barbeque Nation
+restaurant_id,21
+restaurant_type,Casual Dining
+area,JP Nagar
+name,46 Ounces Brewgarden
+restaurant_id,22
+restaurant_type,Microbrewery
+area,Electronic City
+name,Gilly's Restobar
+restaurant_id,23
+restaurant_type,Pub
+area,Electronic City
+name,Stegi - Modern Indian
+restaurant_id,24
+restaurant_type,Casual Dining
+area,Jayanagar
+name,Hakuna Matata
+restaurant_id,25
+restaurant_type,Casual Dining
+area,JP Nagar
+name,Mavalli Tiffin Room (MTR)
+restaurant_id,26
+restaurant_type,Quick Bites
+area,Basavanagudi
+name,Fire Station
+restaurant_id,27
+restaurant_type,Pub
+area,Electronic City
+name,Vapour Brewpub and Diner
+restaurant_id,28
+restaurant_type,Microbrewery
+area,Sarjapur Road
+name,Sattvam
+restaurant_id,29
+restaurant_type,Casual Dining
+area,JP Nagar
+name,Gufha - The President Hotel
+restaurant_id,30
+restaurant_type,Casual Dining
+area,"The President Hotel, Jayanagar"
+name,Gufha - The President Hotel
+restaurant_id,31
+restaurant_type,Casual Dining
+area,"The President Hotel, Jayanagar"
+name,House Of Commons
+restaurant_id,32
+restaurant_type,Bar
+area,HSR
+name,The Barbecue Kingdom
+restaurant_id,33
+restaurant_type,Casual Dining
+area,Electronic City
+name,What the Ale?!
+restaurant_id,34
+restaurant_type,Microbrewery
+area,Electronic City
+name,Levitate Brewery and Kitchen
+restaurant_id,35
+restaurant_type,Microbrewery
+area,JP Nagar
+name,Fat Owl
+restaurant_id,36
+restaurant_type,Bar
+area,JP Nagar
+name,Go Native
+restaurant_id,37
+restaurant_type,Casual Dining
+area,Jayanagar
+name,Al Daaz
+restaurant_id,38
+restaurant_type,Casual Dining
+area,HSR
+name,Taaza Thindi
+restaurant_id,39
+restaurant_type,Quick Bites
+area,Jayanagar
+name,1522 - The Pub
+restaurant_id,40
+restaurant_type,Pub
+area,JP Nagar
+name,Tipsy Bull - The Bar Exchange
+restaurant_id,41
+restaurant_type,Bar
+area,JP Nagar
+name,Hammered
+restaurant_id,42
+restaurant_type,Bar
+area,HSR
+name,Rural Blues
+restaurant_id,43
+restaurant_type,Casual Dining
+area,Sarjapur Road
+name,Subz
+restaurant_id,44
+restaurant_type,Casual Dining
+area,Jayanagar
+name,OPUS Club
+restaurant_id,45
+restaurant_type,Pub
+area,"OPUS, Sarjapur Road"
+name,Onesta
+restaurant_id,46
+restaurant_type,Casual Dining
+area,HSR
+name,Whattay Kitchen and Brew
+restaurant_id,47
+restaurant_type,Microbrewery
+area,Kanakapura Road
+name,Empire Restaurant
+restaurant_id,48
+restaurant_type,Casual Dining
+area,Jayanagar
+name,Broadway - The Gourmet Theatre
+restaurant_id,49
+restaurant_type,Casual Dining
+area,HSR
+name,La Casa Brewery And Kitchen
+restaurant_id,50
+restaurant_type,Microbrewery
+area,Sarjapur Road
+name,Chulha Chauki Da Dhaba
+restaurant_id,51
+restaurant_type,Casual Dining
+area,Sarjapur Road
+name,Stories
+restaurant_id,52
+restaurant_type,Pub
+area,JP Nagar
+name,Vidyarthi Bhavan
+restaurant_id,53
+restaurant_type,Quick Bites
+area,Basavanagudi
+name,By The Peepal
+restaurant_id,54
+restaurant_type,Microbrewery
+area,JP Nagar
+name,Brother Barley Brewing Company
+restaurant_id,55
+restaurant_type,Microbrewery
+area,HSR
+name,Dindigul Thalappakatti
+restaurant_id,56
+restaurant_type,Casual Dining
+area,Jayanagar
+name,Ruh
+restaurant_id,57
+restaurant_type,Casual Dining
+area,Bellandur
+name,Public - The Rooftop Bar And Kitchen
+restaurant_id,58
+restaurant_type,Casual Dining
+area,Bannerghatta Road
+name,Shift
+restaurant_id,59
+restaurant_type,Lounge
+area,HSR
+name,Oyster
+restaurant_id,60
+restaurant_type,Casual Dining
+area,HSR
+name,MOJO Pizza - 2X Toppings
+restaurant_id,61
+restaurant_type,
+area,Bannerghatta Road
+name,Millennials
+restaurant_id,62
+restaurant_type,Bar
+area,JP Nagar
+name,Tea Villa Cafe
+restaurant_id,63
+restaurant_type,Café
+area,Jayanagar
+name,Basil Bistro
+restaurant_id,64
+restaurant_type,Casual Dining
+area,HSR
+name,Cable Car
+restaurant_id,65
+restaurant_type,Casual Dining
+area,Jayanagar
+name,Chavadi
+restaurant_id,66
+restaurant_type,Casual Dining
+area,Bannerghatta Road
+name,Habit@
+restaurant_id,67
+restaurant_type,Bar
+area,Bellandur
+name,Toscano
+restaurant_id,68
+restaurant_type,Casual Dining
+area,Jayanagar
+name,Olive Grove
+restaurant_id,69
+restaurant_type,Casual Dining
+area,Electronic City
+name,Spice It - Ibis Bengaluru
+restaurant_id,70
+restaurant_type,Casual Dining
+area,"Ibis Bengaluru, Marathahalli"
+name,The Punjabi Rasoi
+restaurant_id,71
+restaurant_type,Casual Dining
+area,HSR
+name,LIT Gastro Pub
+restaurant_id,72
+restaurant_type,Pub
+area,Jayanagar
+name,Nandhini Deluxe
+restaurant_id,73
+restaurant_type,Casual Dining
+area,Banashankari
+name,The Hidden Home
+restaurant_id,74
+restaurant_type,Casual Dining
+area,Sarjapur Road
+name,Brahmin's Coffee Bar
+restaurant_id,75
+restaurant_type,Quick Bites
+area,Basavanagudi
+name,Crumb Together
+restaurant_id,76
+restaurant_type,Casual Dining
+area,JP Nagar
+name,Casa Piccosa
+restaurant_id,77
+restaurant_type,Bar
+area,Electronic City
+name,Patio 805
+restaurant_id,78
+restaurant_type,Casual Dining
+area,Jayanagar
+name,Indigo X II P
+restaurant_id,79
+restaurant_type,Pub
+area,HSR
+name,Brew Meister
+restaurant_id,80
+restaurant_type,Microbrewery
+area,Jayanagar
